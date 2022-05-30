@@ -1,0 +1,15 @@
+{
+  "name": "roswell-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0",
+  "author": "Davide Bruzzone <davide.bruzzone@roswellstudios.com> (http://roswellstudios.com/)",
+  "dependencies": {
+    "express": "4.18.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "description": ""
+}
