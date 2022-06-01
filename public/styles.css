@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+}
+
+.page {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  font-size: 20px;
+}
