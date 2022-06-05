@@ -1,0 +1,24 @@
+[
+  {
+    "bundleId": 4242,
+    "bundleUpsell": true,
+    "brand": "Injinji",
+    "name": "Ultra Run No-show",
+    "qty": 1,
+    "price": 17.0
+  },
+  {
+    "bundleId": 4242,
+    "bundleItem": true,
+    "brand": "Nike",
+    "name": "Zoom Alphafly Next%",
+    "qty": 1,
+    "price": 275.0
+  },
+  {
+    "brand": "Hoka",
+    "name": "Carbon X 3",
+    "qty": 1,
+    "price": 200.0
+  }
+]
